@@ -1,11 +1,7 @@
-# This is for practice purpose only
+# Git Repository
 
 Hello welcome to git
 
-## second level heading
+## Files on Git
 
-This is my second edit to the file
-
-### third level heading
-
-This is my third edit to the file
+1. index.html
